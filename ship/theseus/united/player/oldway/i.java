@@ -1,0 +1,12 @@
+package com.bilibili.ship.theseus.united.player.oldway;
+
+import com.bilibili.ship.theseus.united.page.view.StatData;
+import kotlin.jvm.functions.Function1;
+
+/* JADX INFO: loaded from: bili_base.jar:com/bilibili/ship/theseus/united/player/oldway/i.class */
+public final /* synthetic */ class i implements Function1 {
+    public final Object invoke(Object obj) {
+        StatData statData = (StatData) obj;
+        return Long.valueOf(statData != null ? statData.f104021c : 0L);
+    }
+}

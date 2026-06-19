@@ -1,0 +1,9 @@
+package com.bilibili.sistersplayer;
+
+/* JADX INFO: loaded from: bili_base.jar:com/bilibili/sistersplayer/BuildConfig.class */
+public final class BuildConfig {
+    public static final String BUILD_TYPE = "release";
+    public static final boolean DEBUG = false;
+    public static final String LIBRARY_PACKAGE_NAME = "com.bilibili.sistersplayer";
+    public static final String verison = "3.0.9";
+}
